@@ -1303,9 +1303,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    98
+                                    99
                                 </text>
                             </svg>
                             <span class="title">
@@ -2389,7 +2389,7 @@
                                             Veritasimo/sc2-scrapbook
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2440,7 +2440,7 @@
                                             BurnySc2/sc2-planner
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2497,7 +2497,7 @@
                                             eliothxchan/sc2-audio-build-order-reader
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2549,7 +2549,7 @@
                                             StoicLoofah/sc2reader
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2707,7 +2707,7 @@
                     These metrics include private contributions, timezone America/Edmonton
                 </span>
                 <span>
-                    Last updated Sun, 11 Apr 2021 00:10:30 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sun, 11 Apr 2021 12:04:30 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
