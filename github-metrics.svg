@@ -1320,8 +1320,8 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                                <text x="60" y="60" dominant-baseline="central">98</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
+                                <text x="60" y="60" dominant-baseline="central">97</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lawrencecchen/threaded-comments</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2414,7 +2414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mpascu/docker-home-infra</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petersem/DockerStack</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2490,7 +2490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>taganaka/SpeedTest</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2617,7 +2617,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone America/Edmonton</span>
-                <span>Last updated Sat, 08 May 2021 00:25:26 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Sat, 08 May 2021 12:13:11 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
