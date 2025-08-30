@@ -21,13 +21,15 @@ jobs:
           base: header, repositories
           config_timezone: America/Edmonton
           plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
+          plugin_languages_indepth: yes
+          commits_authoring: andy williams, nonissue, nonissue@users.noreply.github.com
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts_type: graph
           plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
