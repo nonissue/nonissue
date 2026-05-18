@@ -26,9 +26,9 @@ jobs:
           plugin_languages_threshold: 3%
           plugin_languages_indepth: yes
           commits_authoring: andy williams, nonissue, nonissue@users.noreply.github.com
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_charts: no
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           plugin_habits_charts_type: graph
           plugin_activity: no
           plugin_activity_days: 14
