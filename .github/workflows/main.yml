@@ -21,10 +21,10 @@ jobs:
           base: header, repositories
           config_timezone: America/Edmonton
           plugin_lines: yes
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           commits_authoring: andy williams, nonissue, nonissue@users.noreply.github.com
           plugin_habits: yes
           plugin_habits_charts: yes
